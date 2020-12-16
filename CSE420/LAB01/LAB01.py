@@ -50,7 +50,7 @@ for line in inputFile:
     for word in lineStr:
         whatType(word)
 
-#bug adding empty string on the indetifiers set so removing this
+#removing empty string from the identifiers
 identifiersSet.remove("")
 
 print("keywords: ", end="")

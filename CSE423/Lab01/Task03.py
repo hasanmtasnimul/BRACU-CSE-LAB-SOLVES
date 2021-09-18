@@ -2,7 +2,6 @@ from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
 
-#My id is 18201058
 
 def ddaLineGen(x0, y0, x1, y1):
     linePoints = []

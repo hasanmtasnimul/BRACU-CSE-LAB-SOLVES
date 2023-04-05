@@ -3,4 +3,4 @@
 #### Course Code: CSE421
 #### Course Name: Computer Networks
 #### Semester: SPRING 2022
-#### [Final Project Link](https://docs.google.com/document/d/1prUsJGyFYn8pDOWbSeweiR-EYpXfIIMSV33V91jaKG8/edit?usp=sharing "Click for Final Project Report")
+#### [Final Project Link](https://drive.google.com/file/d/1iA4-4iBS75w9brFVtFFM2ltXjfQRUmSy/view?usp=share_link "Click for Final Project Report")
